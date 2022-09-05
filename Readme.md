@@ -2,6 +2,14 @@
 
 Transform an image into an interrupted sinusoidal projection, for a DIY 3D globe of the moon or any other celestial body.
 
+Input:
+![moon-equi-small](https://user-images.githubusercontent.com/8348534/188509428-728c6cf9-ae6d-4d00-a0e7-df20856aac83.png)
+
+Output:
+![screenshot-small](https://user-images.githubusercontent.com/8348534/188509431-b7f3e06a-6ad1-440d-8549-1a767e125b05.png)
+
+(Note: the images have been scaled down, but are actually 8k)
+
 ## Usage
 No need to press play, just select the main camera in the scene hierarchy, and take a screenshot using the menu "Custom" -> "Render camera to file".
 The output file is in Assets/screenshot.png.
